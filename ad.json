@@ -1,5 +1,6 @@
 {
     "desc": "ad config",
+    "version": "1.0.0",
     "data": [
         {
             "name": "test",
