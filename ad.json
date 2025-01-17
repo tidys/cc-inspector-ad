@@ -4,40 +4,47 @@
     "valid": true,
     "data": [
         {
+            "valid": true,
             "name": "多语言自动翻译",
             "duration": 3,
             "store": "https://store.cocos.com/app/detail/6828"
         },
         {
+            "valid": true,
             "name": "合图拆分，支持多种格式",
             "duration": 1,
             "try": "https://tidys.github.io/atlas-clipper/main.html",
             "store": "https://store.cocos.com/app/detail/6060"
         },
         {
+            "valid": true,
             "name": "Excel转JSON/TS/JS",
             "duration": 3,
             "try": "https://tidys.github.io/excel-killer/main.html",
             "store": "https://store.cocos.com/app/detail/7022"
         },
         {
+            "valid": true,
             "name": "热更新Manifest生成工具",
             "duration": 3,
             "store": "https://store.cocos.com/app/detail/1898"
         },
         {
+            "valid": true,
             "name": "位图字体生成工具，既支持使用图片生成位图字体，又支持使用TTF生成位图字体",
             "duration": 3,
             "try": "https://tidys.github.io/bmfont-online/",
             "store": "https://store.cocos.com/app/detail/1975"
         },
         {
+            "valid": true,
             "name": "可视化粒子编辑插件",
             "duration": 3,
             "try": "https://tidys.github.io/cc-particle-online/main.html",
             "store": "https://store.cocos.com/app/detail/2117"
         },
         {
+            "valid": true,
             "name": "spine预览",
             "duration": 3,
             "try": "https://tidys.github.io/spine-preview-online-try/main.html",
