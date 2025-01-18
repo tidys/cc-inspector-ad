@@ -50,6 +50,7 @@
             "valid": true,
             "name": "Spine预览",
             "duration": 5,
+            "img": "image/spine-preview.jpg",
             "try": "https://tidys.github.io/spine-preview-online-try/main.html",
             "store": "https://store.cocos.com/app/detail/6825"
         }
