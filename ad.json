@@ -2,7 +2,8 @@
     "desc": "ad config",
     "version": "1.0.0",
     "valid": true,
-    "duration": 0.1,
+    "showDuration": 0.1,
+    "scrollDuration": 0.5,
     "data": [
         {
             "valid": true,
