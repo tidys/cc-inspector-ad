@@ -4,6 +4,8 @@
     "valid": true,
     "showDuration": 0.1,
     "scrollDuration": 5,
+    "showCount": -1,
+    "randomIndex": true,
     "data": [
         {
             "valid": true,
