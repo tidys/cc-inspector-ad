@@ -7,7 +7,7 @@
     "data": [
         {
             "valid": true,
-            "name": "多语言自动翻译",
+            "name": "I18N多语言自动翻译",
             "duration": 5,
             "store": "https://store.cocos.com/app/detail/6828"
         },
@@ -33,7 +33,8 @@
         },
         {
             "valid": true,
-            "name": "位图字体生成工具，既支持使用图片生成位图字体，又支持使用TTF生成位图字体",
+            "name": "BMFont位图字体生成",
+            "tip": "既支持使用图片生成位图字体，又支持使用TTF生成位图字体",
             "duration": 5,
             "try": "https://tidys.github.io/bmfont-online/",
             "store": "https://store.cocos.com/app/detail/1975"
@@ -47,7 +48,7 @@
         },
         {
             "valid": true,
-            "name": "spine预览",
+            "name": "Spine预览",
             "duration": 5,
             "try": "https://tidys.github.io/spine-preview-online-try/main.html",
             "store": "https://store.cocos.com/app/detail/6825"
