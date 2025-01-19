@@ -1,6 +1,5 @@
 {
     "desc": "ad config",
-    "version": "1.0.0",
     "valid": true,
     "showDuration": 0.1,
     "scrollDuration": 5,
