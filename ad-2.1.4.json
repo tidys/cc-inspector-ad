@@ -1,7 +1,7 @@
 {
     "desc": "ad config",
     "valid": true,
-    "showDuration": 10,
+    "showDuration": 15,
     "scrollDuration": 5,
     "showCount": -1,
     "randomIndex": true,
