@@ -8,7 +8,7 @@
     "data": [
         {
             "valid": true,
-            "name": "",
+            "name": "多重纹理合批",
             "duration": 5,
             "img": "image/98k.png",
             "store": "https://store.cocos.com/app/detail/6664"
