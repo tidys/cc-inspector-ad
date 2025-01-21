@@ -8,6 +8,13 @@
     "data": [
         {
             "valid": true,
+            "name": "",
+            "duration": 5,
+            "img": "image/98k.jpg",
+            "store": "https://store.cocos.com/app/detail/6664"
+        },
+        {
+            "valid": true,
             "name": "I18N多语言自动翻译",
             "duration": 5,
             "img": "image/i18n.jpg",
