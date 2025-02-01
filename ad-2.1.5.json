@@ -9,6 +9,13 @@
         {
             "valid": true,
             "name": "",
+            "img": "image-2.1.5/wx-group.jpg",
+            "duration": 5,
+            "store": "${git}/image-2.1.5/wx.jgp"
+        },
+        {
+            "valid": true,
+            "name": "",
             "img": "image-2.1.5/more.jpg",
             "duration": 5,
             "store": "https://store.cocos.com/app/search?name=xu_yanfeng"
