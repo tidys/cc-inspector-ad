@@ -9,6 +9,13 @@
         {
             "valid": true,
             "name": "",
+            "img": "image-2.1.5/more.png",
+            "duration": 5,
+            "store": "https://store.cocos.com/app/search?name=xu_yanfeng"
+        },
+        {
+            "valid": true,
+            "name": "",
             "duration": 5,
             "img": "image-2.1.5/98k.png",
             "store": "https://store.cocos.com/app/detail/6664"
