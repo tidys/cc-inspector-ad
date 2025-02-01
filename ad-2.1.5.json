@@ -11,7 +11,7 @@
             "name": "",
             "img": "image-2.1.5/wx-group.jpg",
             "duration": 5,
-            "store": "${git}/image-2.1.5/wx.jgp"
+            "store": "${git}/image-2.1.5/wx.jpg"
         },
         {
             "valid": true,
