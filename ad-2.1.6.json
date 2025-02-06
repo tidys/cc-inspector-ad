@@ -1,0 +1,86 @@
+{
+    "desc": "ad config",
+    "valid": true,
+    "showDuration": 60,
+    "scrollDuration": 5,
+    "showCount": -1,
+    "randomIndex": true,
+    "data": [
+        {
+            "valid": true,
+            "name": "",
+            "img": "image-2.1.5/wx-group.jpg",
+            "duration": 5,
+            "store": "${git}/image-2.1.5/wx.jpg"
+        },
+        {
+            "valid": true,
+            "name": "",
+            "img": "image-2.1.5/more.jpg",
+            "duration": 5,
+            "store": "https://store.cocos.com/app/search?name=xu_yanfeng"
+        },
+        {
+            "valid": true,
+            "name": "",
+            "duration": 5,
+            "img": "image-2.1.5/98k.png",
+            "store": "https://store.cocos.com/app/detail/6664"
+        },
+        {
+            "valid": true,
+            "name": "I18N多语言自动翻译",
+            "duration": 5,
+            "img": "image-2.1.5/i18n.jpg",
+            "store": "https://store.cocos.com/app/detail/6828"
+        },
+        {
+            "valid": true,
+            "name": "合图拆分，支持多种格式",
+            "duration": 5,
+            "img": "image-2.1.5/cut-texture.jpg",
+            "try": "https://tidys.github.io/atlas-clipper/main.html",
+            "store": "https://store.cocos.com/app/detail/6060"
+        },
+        {
+            "valid": true,
+            "name": "Excel转JSON/TS/JS",
+            "duration": 5,
+            "img": "image-2.1.5/excel-json.jpg",
+            "try": "https://tidys.github.io/excel-killer/main.html",
+            "store": "https://store.cocos.com/app/detail/7022"
+        },
+        {
+            "valid": true,
+            "name": "热更新Manifest生成工具",
+            "duration": 5,
+            "img": "image-2.1.5/manifest.jpg",
+            "store": "https://store.cocos.com/app/detail/1898"
+        },
+        {
+            "valid": true,
+            "name": "BMFont位图字体生成",
+            "tip": "既支持使用图片生成位图字体，又支持使用TTF生成位图字体",
+            "duration": 5,
+            "img": "image-2.1.5/bmfont.jpg",
+            "try": "https://tidys.github.io/bmfont-online/",
+            "store": "https://store.cocos.com/app/detail/1975"
+        },
+        {
+            "valid": true,
+            "name": "可视化粒子编辑插件",
+            "duration": 5,
+            "img": "image-2.1.5/particle.jpg",
+            "try": "https://tidys.github.io/cc-particle-online/main.html",
+            "store": "https://store.cocos.com/app/detail/2117"
+        },
+        {
+            "valid": true,
+            "name": "Spine预览",
+            "duration": 5,
+            "img": "image-2.1.5/spine-preview.jpg",
+            "try": "https://tidys.github.io/spine-preview-online-try/main.html",
+            "store": "https://store.cocos.com/app/detail/6825"
+        }
+    ]
+}
