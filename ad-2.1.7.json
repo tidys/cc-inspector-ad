@@ -63,7 +63,16 @@
             "tip": "既支持使用图片生成位图字体，又支持使用TTF生成位图字体",
             "duration": 5,
             "img": "image-2.1.5/bmfont.jpg",
-            "try": "https://tidys.github.io/bmfont-online/",
+            "try": [
+                {
+                    "name": "BMFont位图字体生成（图片）",
+                    "url": "https://tidys.github.io/bmfont-online/font.html"
+                },
+                {
+                    "name": "BMFont位图字体生成（字体）",
+                    "url": "https://tidys.github.io/bmfont-online/ttf.html"
+                }
+            ],
             "store": "https://store.cocos.com/app/detail/1975"
         },
         {
