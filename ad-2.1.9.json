@@ -130,7 +130,11 @@
         {
             "valid": false,
             "name": "腾讯元宝",
-            "try": "https://yuanbao.tencent.com/"
+            "type:": "ai",
+            "duration": 5,
+            "img": "",
+            "try": "https://yuanbao.tencent.com/",
+            "store": ""
         },
         {
             "valid": false,
