@@ -110,6 +110,7 @@
         {
             "valid": false,
             "name": "AI绘图Raphael",
+            "type:": "ai-image",
             "duration": 5,
             "img": "",
             "try": "https://raphael.app/",
