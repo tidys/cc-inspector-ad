@@ -7,7 +7,7 @@
     "randomIndex": true,
     "keys": {
         "web-tool": "个人开发的web在线游戏工具，无须安装，欢迎自荐，收录更多游戏开发工具。",
-        "ai-image": "AI绘图"
+        "ai": "AI工具"
     },
     "data": [
         {
@@ -120,13 +120,17 @@
         },
         {
             "valid": false,
-            "name": "AI绘图Raphael",
-            "type:": "ai-image",
+            "name": "绘图Raphael",
+            "type:": "ai",
             "duration": 5,
             "img": "",
-            "type": "ai-image",
             "try": "https://raphael.app/",
             "store": ""
+        },
+        {
+            "valid": false,
+            "name": "腾讯元宝",
+            "try": "https://yuanbao.tencent.com/"
         },
         {
             "valid": false,
