@@ -1,6 +1,6 @@
 {
     "desc": "ad config",
-    "valid": true,
+    "where": "list",
     "showDuration": 60,
     "scrollDuration": 5,
     "showCount": -1,
@@ -11,35 +11,35 @@
     },
     "data": [
         {
-            "valid": true,
+            "where": "list",
             "name": "",
             "img": "image-2.1.5/wx-group.jpg",
             "duration": 5,
             "store": "${git}/image-2.1.5/wx.jpg"
         },
         {
-            "valid": true,
+            "where": "list",
             "name": "",
             "img": "image-2.1.5/more.jpg",
             "duration": 5,
             "store": "https://store.cocos.com/app/search?name=xu_yanfeng"
         },
         {
-            "valid": true,
+            "where": "list",
             "name": "",
             "duration": 5,
             "img": "image-2.1.5/98k.png",
             "store": "https://store.cocos.com/app/detail/6664"
         },
         {
-            "valid": true,
+            "where": "list",
             "name": "I18N多语言自动翻译",
             "duration": 5,
             "img": "image-2.1.5/i18n.jpg",
             "store": "https://store.cocos.com/app/detail/6828"
         },
         {
-            "valid": true,
+            "where": "list",
             "name": "合图拆分，支持多种格式",
             "duration": 5,
             "type": "web-tool",
@@ -48,7 +48,7 @@
             "store": "https://store.cocos.com/app/detail/6060"
         },
         {
-            "valid": true,
+            "where": "list",
             "name": "Excel转JSON/TS/JS",
             "duration": 5,
             "type": "web-tool",
@@ -57,14 +57,14 @@
             "store": "https://store.cocos.com/app/detail/7022"
         },
         {
-            "valid": true,
+            "where": "list",
             "name": "热更新Manifest生成工具",
             "duration": 5,
             "img": "image-2.1.5/manifest.jpg",
             "store": "https://store.cocos.com/app/detail/1898"
         },
         {
-            "valid": true,
+            "where": "list",
             "name": "BMFont位图字体生成",
             "tip": "既支持使用图片生成位图字体，又支持使用TTF生成位图字体",
             "duration": 5,
@@ -83,7 +83,7 @@
             "store": "https://store.cocos.com/app/detail/1975"
         },
         {
-            "valid": true,
+            "where": "list",
             "name": "可视化粒子编辑插件",
             "duration": 5,
             "img": "image-2.1.5/particle.jpg",
@@ -92,7 +92,7 @@
             "store": "https://store.cocos.com/app/detail/2117"
         },
         {
-            "valid": true,
+            "where": "list",
             "name": "Spine预览",
             "duration": 5,
             "img": "image-2.1.5/spine-preview.jpg",
@@ -101,7 +101,7 @@
             "store": "https://store.cocos.com/app/detail/6825"
         },
         {
-            "valid": false,
+            "where": "popup",
             "name": "uv-tools",
             "duration": 5,
             "img": "",
@@ -110,7 +110,7 @@
             "store": "https://store.cocos.com/app/detail/5821"
         },
         {
-            "valid": false,
+            "where": "popup",
             "name": "creator brother",
             "duration": 5,
             "img": "",
@@ -119,7 +119,7 @@
             "store": "https://store.cocos.com/app/detail/6441"
         },
         {
-            "valid": false,
+            "where": "popup",
             "name": "绘图Raphael",
             "type": "ai",
             "duration": 5,
@@ -128,16 +128,26 @@
             "store": ""
         },
         {
-            "valid": false,
+            "where": "popup",
             "name": "腾讯元宝",
             "type": "ai",
+            "visible": false,
             "duration": 5,
             "img": "",
             "try": "https://yuanbao.tencent.com/",
             "store": ""
         },
         {
-            "valid": false,
+            "where": "popup",
+            "name": "豆包MarsCode",
+            "type": "ai",
+            "duration": 5,
+            "img": "",
+            "try": "https://www.marscode.cn/events/s/iPfNYdNN/",
+            "store": ""
+        },
+        {
+            "where": "popup",
             "name": "jsc解密",
             "duration": 5,
             "img": "",
