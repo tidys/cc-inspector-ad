@@ -121,7 +121,7 @@
         {
             "valid": false,
             "name": "绘图Raphael",
-            "type:": "ai",
+            "type": "ai",
             "duration": 5,
             "img": "",
             "try": "https://raphael.app/",
@@ -130,7 +130,7 @@
         {
             "valid": false,
             "name": "腾讯元宝",
-            "type:": "ai",
+            "type": "ai",
             "duration": 5,
             "img": "",
             "try": "https://yuanbao.tencent.com/",
