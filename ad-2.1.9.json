@@ -5,6 +5,10 @@
     "scrollDuration": 5,
     "showCount": -1,
     "randomIndex": true,
+    "keys": {
+        "web-tool": "个人开发的web在线游戏工具，无须安装，欢迎自荐，收录更多游戏开发工具。",
+        "ai-image": "AI绘图"
+    },
     "data": [
         {
             "valid": true,
@@ -38,6 +42,7 @@
             "valid": true,
             "name": "合图拆分，支持多种格式",
             "duration": 5,
+            "type": "web-tool",
             "img": "image-2.1.5/cut-texture.jpg",
             "try": "https://tidys.github.io/atlas-clipper/main.html",
             "store": "https://store.cocos.com/app/detail/6060"
@@ -46,6 +51,7 @@
             "valid": true,
             "name": "Excel转JSON/TS/JS",
             "duration": 5,
+            "type": "web-tool",
             "img": "image-2.1.5/excel-json.jpg",
             "try": "https://tidys.github.io/excel-killer/main.html",
             "store": "https://store.cocos.com/app/detail/7022"
@@ -62,6 +68,7 @@
             "name": "BMFont位图字体生成",
             "tip": "既支持使用图片生成位图字体，又支持使用TTF生成位图字体",
             "duration": 5,
+            "type": "web-tool",
             "img": "image-2.1.5/bmfont.jpg",
             "try": [
                 {
@@ -80,6 +87,7 @@
             "name": "可视化粒子编辑插件",
             "duration": 5,
             "img": "image-2.1.5/particle.jpg",
+            "type": "web-tool",
             "try": "https://tidys.github.io/cc-particle-online/main.html",
             "store": "https://store.cocos.com/app/detail/2117"
         },
@@ -88,6 +96,7 @@
             "name": "Spine预览",
             "duration": 5,
             "img": "image-2.1.5/spine-preview.jpg",
+            "type": "web-tool",
             "try": "https://tidys.github.io/spine-preview-online-try/main.html",
             "store": "https://store.cocos.com/app/detail/6825"
         },
@@ -96,6 +105,7 @@
             "name": "uv-tools",
             "duration": 5,
             "img": "",
+            "type": "web-tool",
             "try": "https://tidys.github.io/uv-tools/main.html",
             "store": "https://store.cocos.com/app/detail/5821"
         },
@@ -104,6 +114,7 @@
             "name": "creator brother",
             "duration": 5,
             "img": "",
+            "type": "web-tool",
             "try": "https://tidys.github.io/creator-brother/main.html",
             "store": "https://store.cocos.com/app/detail/6441"
         },
@@ -113,14 +124,16 @@
             "type:": "ai-image",
             "duration": 5,
             "img": "",
+            "type": "ai-image",
             "try": "https://raphael.app/",
-            "store": "https://raphael.app/"
+            "store": ""
         },
         {
             "valid": false,
             "name": "jsc解密",
             "duration": 5,
             "img": "",
+            "type": "web-tool",
             "try": "https://tidys.github.io/jsc-tools/main.html",
             "store": "https://store.cocos.com/app/detail/5891"
         }
