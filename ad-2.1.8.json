@@ -109,6 +109,14 @@
         },
         {
             "valid": false,
+            "name": "AI绘图Raphael",
+            "duration": 5,
+            "img": "",
+            "try": "https://raphael.app/",
+            "store": "https://raphael.app/"
+        },
+        {
+            "valid": false,
             "name": "jsc解密",
             "duration": 5,
             "img": "",
