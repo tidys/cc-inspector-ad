@@ -148,6 +148,15 @@
         },
         {
             "where": "popup",
+            "name": "绘图ImageFX",
+            "type": "ai",
+            "duration": 5,
+            "img": "",
+            "try": "https://labs.google/fx/zh/tools/image-fx",
+            "store": ""
+        },
+        {
+            "where": "popup",
             "name": "jsc解密",
             "duration": 5,
             "img": "",
