@@ -177,6 +177,15 @@
             "type": "web-tool",
             "try": "https://tidys.github.io/jsc-tools/main.html",
             "store": "https://store.cocos.com/app/detail/5891"
+        },
+        {
+            "where": "popup",
+            "name": "效率插件：引用查找&文件索引",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "",
+            "store": "https://store.cocos.com/app/detail/7391"
         }
     ]
 }
