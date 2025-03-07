@@ -1,0 +1,191 @@
+{
+    "desc": "ad config",
+    "where": "list",
+    "showDuration": 60,
+    "scrollDuration": 5,
+    "showCount": -1,
+    "randomIndex": true,
+    "keys": {
+        "web-tool": "个人开发的web在线游戏工具，无须安装，欢迎自荐，收录更多游戏开发工具。",
+        "ai": "AI工具"
+    },
+    "notify": [
+        {
+            "id": "marscode",
+            "title": "支持一下cc-inspector作者吧！",
+            "msg": "[广告]免费的AI编程助手MarsCode，支持豆包大模型1.5，DeepSeek R1/V3自由切换，点击体验！",
+            "url": "https://www.marscode.cn/events/s/RhN8iOFvs6o/",
+            "deadTime": "2025/02/28",
+            "duration": 200,
+            "buttons": [
+                "IKnow",
+                "Go"
+            ]
+        }
+    ],
+    "data": [
+        {
+            "where": "list",
+            "name": "",
+            "img": "image-2.1.5/wx-group.jpg",
+            "duration": 5,
+            "store": "${git}/image-2.1.5/wx.jpg"
+        },
+        {
+            "where": "list",
+            "name": "",
+            "img": "image-2.1.5/more.jpg",
+            "duration": 5,
+            "store": "https://store.cocos.com/app/search?name=xu_yanfeng"
+        },
+        {
+            "where": "list",
+            "name": "",
+            "duration": 5,
+            "img": "image-2.1.5/98k.png",
+            "store": "https://store.cocos.com/app/detail/6664"
+        },
+        {
+            "where": "list",
+            "name": "I18N多语言自动翻译",
+            "duration": 5,
+            "img": "image-2.1.5/i18n.jpg",
+            "store": "https://store.cocos.com/app/detail/6828"
+        },
+        {
+            "where": "list",
+            "name": "合图拆分，支持多种格式",
+            "duration": 5,
+            "type": "web-tool",
+            "img": "image-2.1.5/cut-texture.jpg",
+            "try": "https://tidys.github.io/atlas-clipper/main.html",
+            "store": "https://store.cocos.com/app/detail/6060"
+        },
+        {
+            "where": "list",
+            "name": "Excel转JSON/TS/JS",
+            "duration": 5,
+            "type": "web-tool",
+            "img": "image-2.1.5/excel-json.jpg",
+            "try": "https://tidys.github.io/excel-killer/main.html",
+            "store": "https://store.cocos.com/app/detail/7022"
+        },
+        {
+            "where": "list",
+            "name": "热更新Manifest生成工具",
+            "duration": 5,
+            "img": "image-2.1.5/manifest.jpg",
+            "store": "https://store.cocos.com/app/detail/1898"
+        },
+        {
+            "where": "list",
+            "name": "BMFont位图字体生成",
+            "tip": "既支持使用图片生成位图字体，又支持使用TTF生成位图字体",
+            "duration": 5,
+            "type": "web-tool",
+            "img": "image-2.1.5/bmfont.jpg",
+            "try": [
+                {
+                    "name": "BMFont位图字体生成（图片）",
+                    "url": "https://tidys.github.io/bmfont-online/font.html"
+                },
+                {
+                    "name": "BMFont位图字体生成（字体）",
+                    "url": "https://tidys.github.io/bmfont-online/ttf.html"
+                }
+            ],
+            "store": "https://store.cocos.com/app/detail/1975"
+        },
+        {
+            "where": "list",
+            "name": "可视化粒子编辑插件",
+            "duration": 5,
+            "img": "image-2.1.5/particle.jpg",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/cc-particle-online/main.html",
+            "store": "https://store.cocos.com/app/detail/2117"
+        },
+        {
+            "where": "list",
+            "name": "Spine预览",
+            "duration": 5,
+            "img": "image-2.1.5/spine-preview.jpg",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/spine-preview-online-try/main.html",
+            "store": "https://store.cocos.com/app/detail/6825"
+        },
+        {
+            "where": "popup",
+            "name": "uv-tools",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/uv-tools/main.html",
+            "store": "https://store.cocos.com/app/detail/5821"
+        },
+        {
+            "where": "popup",
+            "name": "creator brother",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/creator-brother/main.html",
+            "store": "https://store.cocos.com/app/detail/6441"
+        },
+        {
+            "where": "popup",
+            "name": "绘图Raphael",
+            "type": "ai",
+            "duration": 5,
+            "img": "",
+            "try": "https://raphael.app/",
+            "store": ""
+        },
+        {
+            "where": "popup",
+            "name": "腾讯元宝",
+            "type": "ai",
+            "visible": false,
+            "duration": 5,
+            "img": "",
+            "try": "https://yuanbao.tencent.com/",
+            "store": ""
+        },
+        {
+            "where": "popup",
+            "name": "豆包MarsCode",
+            "type": "ai",
+            "duration": 5,
+            "img": "",
+            "try": "https://www.marscode.cn/events/s/iPfNYdNN/",
+            "store": ""
+        },
+        {
+            "where": "popup",
+            "name": "绘图ImageFX",
+            "type": "ai",
+            "duration": 5,
+            "img": "",
+            "try": "https://labs.google/fx/zh/tools/image-fx",
+            "store": ""
+        },
+        {
+            "where": "popup",
+            "name": "jsc解密",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/jsc-tools/main.html",
+            "store": "https://store.cocos.com/app/detail/5891"
+        },
+        {
+            "where": "popup",
+            "name": "效率插件：引用查找&文件索引",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "",
+            "store": "https://store.cocos.com/app/detail/7391"
+        }
+    ]
+}
