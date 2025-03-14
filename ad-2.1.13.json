@@ -11,11 +11,11 @@
     },
     "notify": [
         {
-            "id": "marscode",
+            "id": "everything",
             "title": "支持一下cc-inspector作者吧！",
-            "msg": "[广告]免费的AI编程助手MarsCode，支持豆包大模型1.5，DeepSeek R1/V3自由切换，点击体验！",
-            "url": "https://www.marscode.cn/events/s/RhN8iOFvs6o/",
-            "deadTime": "2025/02/28",
+            "msg": "效率插件优惠中：引用查找，引用替换（游戏换皮利器）,资源检索查找（和VsCode一样丝滑）",
+            "url": "https://store.cocos.com/app/detail/7391",
+            "deadTime": "2025/03/18",
             "duration": 200,
             "buttons": [
                 "IKnow",
