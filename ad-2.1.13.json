@@ -15,7 +15,19 @@
             "title": "支持一下cc-inspector作者吧！",
             "msg": "效率插件优惠中：引用查找，引用替换（游戏换皮利器）,资源检索查找（和VsCode一样丝滑）",
             "url": "https://store.cocos.com/app/detail/7391",
-            "deadTime": "2025/03/18",
+            "deadTime": "2029/03/18",
+            "duration": 600,
+            "buttons": [
+                "IKnow",
+                "Go"
+            ]
+        },
+        {
+            "id": "cocos_mcp",
+            "title": "CocosMcp",
+            "msg": "使用AI指挥Creator做游戏，让游戏开发更简单！",
+            "url": "https://mp.weixin.qq.com/s/BxRm9fsHpydb7uxCDJ5TJQ",
+            "deadTime": "2029/03/18",
             "duration": 200,
             "buttons": [
                 "IKnow",
