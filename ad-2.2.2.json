@@ -198,6 +198,33 @@
             "type": "web-tool",
             "try": "",
             "store": "https://store.cocos.com/app/detail/7391"
+        },
+        {
+            "where": "popup",
+            "name": "曲线纹理2d[CurveTexture2d]",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "",
+            "store": "https://store.cocos.com/app/detail/7632"
+        },
+        {
+            "where": "popup",
+            "name": "Light2D光照系统",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "",
+            "store": "https://store.cocos.com/app/detail/7864"
+        },
+        {
+            "where": "popup",
+            "name": "多边形精灵[PolygonSprite]",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "",
+            "store": "https://store.cocos.com/app/detail/7807"
         }
     ]
 }
