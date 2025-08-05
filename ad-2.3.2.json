@@ -1,0 +1,186 @@
+{
+    "desc": "ad config",
+    "where": "list",
+    "showDuration": 60,
+    "scrollDuration": 5,
+    "showCount": -1,
+    "randomIndex": true,
+    "keys": {
+        "web-tool": "个人开发的web在线游戏工具，无须安装，欢迎自荐，收录更多游戏开发工具。",
+        "ai": "AI工具"
+    },
+    "notify": [
+        {
+            "id": "everything",
+            "title": "支持一下cc-inspector作者吧！",
+            "msg": "实用效率插件：依赖查找，引用查找，引用替换，资源检索",
+            "url": "https://store.cocos.com/app/detail/7391",
+            "deadTime": "2029/03/18",
+            "duration": 600,
+            "buttons": [
+                "IKnow",
+                "Go"
+            ]
+        },
+        {
+            "id": "cocos_plugin_tutorial",
+            "title": "小王子带你入坑CocosCreator插件开发",
+            "msg": "CocosCreator3D插件系列教程，已完结！求关注！",
+            "url": "https://mp.weixin.qq.com/s/KzmV6qYt4LsTL8bkhuO2SA",
+            "deadTime": "2029/03/18",
+            "duration": 200,
+            "buttons": [
+                "IKnow",
+                "Go"
+            ]
+        }
+    ],
+    "data": [
+        {
+            "where": "list",
+            "name": "",
+            "img": "image-2.1.5/wx-group.jpg",
+            "duration": 5,
+            "store": "${git}/image-2.1.5/wx.jpg"
+        },
+        {
+            "where": "list",
+            "name": "",
+            "img": "image-2.1.5/more.jpg",
+            "duration": 5,
+            "store": "https://store.cocos.com/app/search?name=xu_yanfeng"
+        },
+        {
+            "where": "list",
+            "name": "I18N多语言自动翻译",
+            "duration": 5,
+            "img": "image-2.1.5/i18n.jpg",
+            "store": "https://store.cocos.com/app/detail/6828"
+        },
+        {
+            "where": "list",
+            "name": "合图拆分，支持多种格式",
+            "duration": 5,
+            "type": "web-tool",
+            "img": "image-2.1.5/cut-texture.jpg",
+            "try": "https://tidys.github.io/atlas-clipper/main.html",
+            "store": "https://store.cocos.com/app/detail/6060"
+        },
+        {
+            "where": "list",
+            "name": "Excel转JSON/TS/JS",
+            "duration": 5,
+            "type": "web-tool",
+            "img": "image-2.1.5/excel-json.jpg",
+            "try": "https://tidys.github.io/excel-killer/main.html",
+            "store": "https://store.cocos.com/app/detail/7022"
+        },
+        {
+            "where": "list",
+            "name": "热更新Manifest生成工具",
+            "duration": 5,
+            "img": "image-2.1.5/manifest.jpg",
+            "store": "https://store.cocos.com/app/detail/1898"
+        },
+        {
+            "where": "list",
+            "name": "BMFont位图字体生成",
+            "tip": "既支持使用图片生成位图字体，又支持使用TTF生成位图字体",
+            "duration": 5,
+            "type": "web-tool",
+            "img": "image-2.1.5/bmfont.jpg",
+            "try": [
+                {
+                    "name": "BMFont位图字体生成（图片）",
+                    "url": "https://tidys.github.io/bmfont-online/font.html"
+                },
+                {
+                    "name": "BMFont位图字体生成（字体）",
+                    "url": "https://tidys.github.io/bmfont-online/ttf.html"
+                }
+            ],
+            "store": "https://store.cocos.com/app/detail/1975"
+        },
+        {
+            "where": "list",
+            "name": "可视化粒子编辑插件",
+            "duration": 5,
+            "img": "image-2.1.5/particle.jpg",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/cc-particle-online/main.html",
+            "store": "https://store.cocos.com/app/detail/2117"
+        },
+        {
+            "where": "list",
+            "name": "Spine预览",
+            "duration": 5,
+            "img": "image-2.1.5/spine-preview.jpg",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/spine-preview-online-try/main.html",
+            "store": "https://store.cocos.com/app/detail/6825"
+        },
+        {
+            "where": "popup",
+            "name": "uv-tools",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/uv-tools/main.html",
+            "store": "https://store.cocos.com/app/detail/5821"
+        },
+        {
+            "where": "popup",
+            "name": "creator brother",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/creator-brother/main.html",
+            "store": "https://store.cocos.com/app/detail/6441"
+        },
+        {
+            "where": "popup",
+            "name": "jsc解密",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "https://tidys.github.io/jsc-tools/main.html",
+            "store": "https://store.cocos.com/app/detail/5891"
+        },
+        {
+            "where": "popup",
+            "name": "效率插件：引用查找&文件索引",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "",
+            "store": "https://store.cocos.com/app/detail/7391"
+        },
+        {
+            "where": "popup",
+            "name": "曲线纹理2d[CurveTexture2d]",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "https://soidaken.github.io/flashfin_CurveTexture2D_Presentation/",
+            "store": "https://store.cocos.com/app/detail/7632"
+        },
+        {
+            "where": "popup",
+            "name": "Light2D光照系统",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "https://soidaken.github.io/flashfin_Light2D/",
+            "store": "https://store.cocos.com/app/detail/7864"
+        },
+        {
+            "where": "popup",
+            "name": "多边形精灵[PolygonSprite]",
+            "duration": 5,
+            "img": "",
+            "type": "web-tool",
+            "try": "https://soidaken.github.io/flashfin_PolygonSprite/",
+            "store": "https://store.cocos.com/app/detail/7807"
+        }
+    ]
+}
