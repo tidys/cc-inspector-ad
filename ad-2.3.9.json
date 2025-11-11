@@ -45,6 +45,18 @@
                 "IKnow",
                 "Go"
             ]
+        },
+        {
+            "id": "cocos_plugin_everything_activity2",
+            "title": "everything插件五折促销",
+            "msg": "限时3天！历史最低价！",
+            "url": "https://store.cocos.com/app/detail/7391",
+            "deadTime": "2025/11/15",
+            "duration": 220,
+            "buttons": [
+                "IKnow",
+                "Go"
+            ]
         }
     ],
     "data": [
