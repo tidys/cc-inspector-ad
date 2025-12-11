@@ -35,23 +35,11 @@
             ]
         },
         {
-            "id": "cocos_plugin_everything_activity",
-            "title": "everything插件五折促销",
-            "msg": "中秋快乐！限时3天！历史最低价！",
-            "url": "https://mp.weixin.qq.com/s/7NkL3Y7xOt6VQzDKhmxy_Q",
-            "deadTime": "2025/09/21",
-            "duration": 200,
-            "buttons": [
-                "IKnow",
-                "Go"
-            ]
-        },
-        {
-            "id": "cocos_plugin_everything_activity2",
-            "title": "everything插件五折促销",
-            "msg": "限时3天！历史最低价！",
+            "id": "cocos_plugin_everything_activity3",
+            "title": "everything插件限时促销",
+            "msg": "限时2天！只需66元！",
             "url": "https://store.cocos.com/app/detail/7391",
-            "deadTime": "2025/11/15",
+            "deadTime": "2025/12/15",
             "duration": 220,
             "buttons": [
                 "IKnow",
