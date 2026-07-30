@@ -37,7 +37,7 @@
         {
             "id": "api_token",
             "title": "TOKEN不够用？",
-            "msg": "来试试这个中转站吧，不掺水不灌水，Codex直连",
+            "msg": "来试试我的中转站吧，不掺水不灌水，Codex直连",
             "url": "https://cc-inspector.shop",
             "deadTime": "2035/12/15",
             "duration": 220,
